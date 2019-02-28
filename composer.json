@@ -2,6 +2,7 @@
     "name": "bee-framework/cli",
     "description": "Bee框架命令行组件",
     "require": {
+        "php": ">=7.1",
         "jakub-onderka/php-console-color": "^0.2.0"
     },
     "require-dev": {
